@@ -1,2 +1,2 @@
 # radar_manifests
-NXP Radar SDK (RSDK) Yocto Project Manifests
+NXP S32R45 Radar SDK (RSDK) Yocto Project Manifests
