@@ -3,7 +3,6 @@
   <remote fetch="https://github.com/nxp-auto-linux" name="alb"/>
   <remote fetch="https://git.yoctoproject.org/git" name="yocto"/>
   <remote fetch="https://git.openembedded.org" name="oe"/>
-  <remote fetch="https://review.linaro.org/openembedded" name="linaro"/>
 
   <remote fetch="https://github.com/nxp-qoriq" name="qoriq"/>
 
